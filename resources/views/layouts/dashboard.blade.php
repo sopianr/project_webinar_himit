@@ -117,7 +117,7 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1 class="m-0 text-dark">sorry this project is not finished </h1>
+            <h1 class="m-0 text-dark">maaf project belum selesai, karena masih belajar dan banyak yang belum diketahui </h1>
           </div><!-- /.col -->
           <div class="col-sm-6">
           </div><!-- /.col -->
